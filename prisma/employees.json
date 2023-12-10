@@ -1,0 +1,362 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "salary": 10000,
+    "department": "HR"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "salary": 20000,
+    "department": "Finance"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Johnson",
+    "salary": 35000,
+    "department": "IT"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Williams",
+    "salary": 80000,
+    "department": "Engineering"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Brown",
+    "salary": 65000,
+    "department": "Sales"
+  },
+  {
+    "firstName": "Eva",
+    "lastName": "Miller",
+    "salary": 75000,
+    "department": "Marketing"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Davis",
+    "salary": 40000,
+    "department": "HR"
+  },
+  {
+    "firstName": "Grace",
+    "lastName": "Moore",
+    "salary": 60000,
+    "department": "Finance"
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "White",
+    "salary": 85000,
+    "department": "IT"
+  },
+  {
+    "firstName": "Helen",
+    "lastName": "Clark",
+    "salary": 50000,
+    "department": "Engineering"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Johnson",
+    "salary": 90000,
+    "department": "Sales"
+  },
+  {
+    "firstName": "Sophia",
+    "lastName": "Garcia",
+    "salary": 30000,
+    "department": "Marketing"
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Lee",
+    "salary": 55000,
+    "department": "HR"
+  },
+  {
+    "firstName": "Olivia",
+    "lastName": "Jones",
+    "salary": 70000,
+    "department": "Finance"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Martinez",
+    "salary": 45000,
+    "department": "IT"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Harris",
+    "salary": 120000,
+    "department": "Engineering"
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Anderson",
+    "salary": 48000,
+    "department": "Sales"
+  },
+  {
+    "firstName": "Ava",
+    "lastName": "Jackson",
+    "salary": 92000,
+    "department": "Marketing"
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Smith",
+    "salary": 55000,
+    "department": "HR"
+  },
+  {
+    "firstName": "Mia",
+    "lastName": "Taylor",
+    "salary": 78000,
+    "department": "Finance"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Walker",
+    "salary": 60000,
+    "department": "IT"
+  },
+  {
+    "firstName": "Sophie",
+    "lastName": "Moore",
+    "salary": 67000,
+    "department": "Engineering"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Lopez",
+    "salary": 85000,
+    "department": "Sales"
+  },
+  {
+    "firstName": "Aiden",
+    "lastName": "Davis",
+    "salary": 42000,
+    "department": "Marketing"
+  },
+  {
+    "firstName": "Scarlett",
+    "lastName": "Wilson",
+    "salary": 95000,
+    "department": "HR"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Perez",
+    "salary": 52000,
+    "department": "Finance"
+  },
+  {
+    "firstName": "Chloe",
+    "lastName": "Gonzalez",
+    "salary": 72000,
+    "department": "IT"
+  },
+  {
+    "firstName": "Elijah",
+    "lastName": "Hall",
+    "salary": 62000,
+    "department": "Engineering"
+  },
+  {
+    "firstName": "Grace",
+    "lastName": "Rodriguez",
+    "salary": 55000,
+    "department": "Sales"
+  },
+  {
+    "firstName": "Leah",
+    "lastName": "Cooper",
+    "salary": 88000,
+    "department": "Marketing"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Hill",
+    "salary": 38000,
+    "department": "HR"
+  },
+  {
+    "firstName": "Zoe",
+    "lastName": "Baker",
+    "salary": 76000,
+    "department": "Finance"
+  },
+  {
+    "firstName": "Christopher",
+    "lastName": "Ward",
+    "salary": 58000,
+    "department": "IT"
+  },
+  {
+    "firstName": "Lily",
+    "lastName": "Fisher",
+    "salary": 89000,
+    "department": "Engineering"
+  },
+  {
+    "firstName": "Andrew",
+    "lastName": "Russell",
+    "salary": 47000,
+    "department": "Sales"
+  },
+  {
+    "firstName": "Madison",
+    "lastName": "Wright",
+    "salary": 102000,
+    "department": "Marketing"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Barnes",
+    "salary": 52000,
+    "department": "HR"
+  },
+  {
+    "firstName": "Avery",
+    "lastName": "Coleman",
+    "salary": 79000,
+    "department": "Finance"
+  },
+  {
+    "firstName": "Jackson",
+    "lastName": "Sullivan",
+    "salary": 64000,
+    "department": "IT"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Turner",
+    "salary": 69000,
+    "department": "Engineering"
+  },
+  {
+    "firstName": "Isaac",
+    "lastName": "West",
+    "salary": 84000,
+    "department": "Sales"
+  },
+  {
+    "firstName": "Brooklyn",
+    "lastName": "Peterson",
+    "salary": 43000,
+    "department": "Marketing"
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Evans",
+    "salary": 72000,
+    "department": "HR"
+  },
+  {
+    "firstName": "Aria",
+    "lastName": "Simmons",
+    "salary": 57000,
+    "department": "Finance"
+  },
+  {
+    "firstName": "Carter",
+    "lastName": "Ferguson",
+    "salary": 91000,
+    "department": "IT"
+  },
+  {
+    "firstName": "Amelia",
+    "lastName": "Perry",
+    "salary": 49000,
+    "department": "Engineering"
+  },
+  {
+    "firstName": "Landon",
+    "lastName": "Morris",
+    "salary": 83000,
+    "department": "Sales"
+  },
+  {
+    "firstName": "Abigail",
+    "lastName": "Dunn",
+    "salary": 68000,
+    "department": "Marketing"
+  },
+  {
+    "firstName": "Grayson",
+    "lastName": "Keller",
+    "salary": 75000,
+    "department": "HR"
+  },
+  {
+    "firstName": "Sophia",
+    "lastName": "Hart",
+    "salary": 98000,
+    "department": "Finance"
+  },
+  {
+    "firstName": "Elijah",
+    "lastName": "Bowman",
+    "salary": 54000,
+    "department": "IT"
+  },
+  {
+    "firstName": "Harper",
+    "lastName": "Wells",
+    "salary": 89000,
+    "department": "Engineering"
+  },
+  {
+    "firstName": "Lucy",
+    "lastName": "Morgan",
+    "salary": 59000,
+    "department": "Sales"
+  },
+  {
+    "firstName": "Mason",
+    "lastName": "Peters",
+    "salary": 86000,
+    "department": "Marketing"
+  },
+  {
+    "firstName": "Aubrey",
+    "lastName": "Fletcher",
+    "salary": 46000,
+    "department": "HR"
+  },
+  {
+    "firstName": "Logan",
+    "lastName": "Reyes",
+    "salary": 74000,
+    "department": "Finance"
+  },
+  {
+    "firstName": "Peyton",
+    "lastName": "Hunter",
+    "salary": 63000,
+    "department": "IT"
+  },
+  {
+    "firstName": "Aurora",
+    "lastName": "Webb",
+    "salary": 68000,
+    "department": "Engineering"
+  },
+  {
+    "firstName": "Owen",
+    "lastName": "Harrison",
+    "salary": 50000,
+    "department": "Sales"
+  },
+  {
+    "firstName": "Ellie",
+    "lastName": "Bryant",
+    "salary": 97000,
+    "department": "Marketing"
+  }
+]
